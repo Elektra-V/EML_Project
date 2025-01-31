@@ -1,0 +1,3 @@
+[submodule "Project/Popper"]
+	path = Project/Popper
+	url = git@github.com:logic-and-learning-lab/Popper.git
